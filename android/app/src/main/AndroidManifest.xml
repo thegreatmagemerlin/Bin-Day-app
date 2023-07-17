@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="bin_day_final_prototype"
+        android:label="Bin Day"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
