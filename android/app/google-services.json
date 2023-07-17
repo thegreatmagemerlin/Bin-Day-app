@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:554431559242:android:f8009d41cc815631f158b3",
         "android_client_info": {
-          "package_name": "com.example.bin_day_final_prototype"
+          "package_name": "com.shanks.bin_day_final_prototype"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "554431559242-5i3av7cpferncp7ap448i1uituhdj3fr.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.binDayFinalPrototype.RunnerTests"
+                "bundle_id": "com.shanks.binDayFinalPrototype.RunnerTests"
               }
             }
           ]
